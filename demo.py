@@ -16,3 +16,4 @@ print(sys.argv[0])
 #找到差数的绝对路劲
 print(os.path.realpath(sys.argv[0]))
 print("尝试git分支")
+print("分支开发完成")
